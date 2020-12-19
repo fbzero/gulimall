@@ -21,6 +21,8 @@
         <module>gulimall-product</module>
         <module>gulimall-ware</module>
 
+
+
     </modules>
 
     <dependencyManagement>
